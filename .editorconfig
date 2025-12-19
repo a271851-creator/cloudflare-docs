@@ -10,4 +10,4 @@ trim_trailing_whitespace = false
 insert_final_newline = true
 
 [*.{yml,yaml}]
-indent_style = space
+indent_style = space 
